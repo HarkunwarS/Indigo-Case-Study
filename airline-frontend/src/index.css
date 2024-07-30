@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.bg-airline-background {
+  background-image: url('https://images.pexels.com/photos/912050/pexels-photo-912050.jpeg');
+  background-size: cover;
+  background-position: center;
+}
